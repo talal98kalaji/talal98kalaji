@@ -1,4 +1,4 @@
-💫 Hi I'm [Talal Kala jeh]!
+Hallo I'm Talal Kala jeh!
 
 Software Engineer sharing about my journey and learnings in tech
 Studied [Computer Engineering] at [IPU (Ittihad Private University])
