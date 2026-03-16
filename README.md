@@ -5,7 +5,7 @@ Studied [Computer Engineering] at [IPU (Ittihad Private University])
 Currently refining my skills as a Full-Stack Developer]
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/talal-kalaji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talal-kalaji)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talalkalaji98@gmail.com)
 
 ### Tech Stack:
